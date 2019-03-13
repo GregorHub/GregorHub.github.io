@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c0e5816954fed8344782.js",
+        "/main.6593db42c419c789e1e5.js",
         "/polyfills.3eb7881d3a00da6c675e.js",
         "/runtime.a5dd35324ddfd942bef1.js",
         "/styles.7e69e535420df75d922b.css"
@@ -24,6 +24,8 @@
         "/assets/0565-zoom-in2.png",
         "/assets/0566-zoom-out2.png",
         "/assets/1394-radio-checked.png",
+        "/assets/bell.png",
+        "/assets/bellActive.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -33,7 +35,8 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/leftBtn.png",
-        "/assets/marker.png"
+        "/assets/marker.png",
+        "/assets/settings.png"
       ],
       "patterns": []
     }
@@ -43,6 +46,8 @@
     "/assets/0565-zoom-in2.png": "575f483655c6841074e373470b0e0bd3ecb6aedc",
     "/assets/0566-zoom-out2.png": "08815a7368f827c22a8675d34349135491e924ce",
     "/assets/1394-radio-checked.png": "91020c4b3e8d4d66d90729602d97a1293ad2d5be",
+    "/assets/bell.png": "01359ce4dab06cbe7b0781eba2d49917b83f5f12",
+    "/assets/bellActive.png": "de4ea9182540203f9f5c03a26878aa092db08aa3",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -53,9 +58,10 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/leftBtn.png": "7731b35bf2f3a7905dbd6ccb6ae5fb0392d69717",
     "/assets/marker.png": "b61590e31626b2abb09d92f3bf2c801c3b71277f",
+    "/assets/settings.png": "9751d13453a74fd191cac566ed8a60d43d974538",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "0b916d6770d5d24f046fda6b9cf829d30e53d00a",
-    "/main.c0e5816954fed8344782.js": "3cae25d3d39005c75e6562b045a4878d2877c4cc",
+    "/index.html": "0cc8a5e2baef0f8057c519cf16a6edebcf178a96",
+    "/main.6593db42c419c789e1e5.js": "d23ad37fc2f12899fff07963c548f531c96e94ef",
     "/polyfills.3eb7881d3a00da6c675e.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.7e69e535420df75d922b.css": "5bb4c7a3db15c3acda5e0bf6a9d98e5ee8b197d8"
