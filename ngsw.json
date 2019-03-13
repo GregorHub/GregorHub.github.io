@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d1e0bcc44944e2e8dbbf.js",
+        "/main.a1df2b636be0fa1aba03.js",
         "/polyfills.3eb7881d3a00da6c675e.js",
         "/runtime.a5dd35324ddfd942bef1.js",
         "/styles.7e69e535420df75d922b.css"
@@ -18,7 +18,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
         "/assets/0565-zoom-in2.png",
@@ -60,8 +60,8 @@
     "/assets/marker.png": "b61590e31626b2abb09d92f3bf2c801c3b71277f",
     "/assets/settings.png": "9751d13453a74fd191cac566ed8a60d43d974538",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "ae9b9fb577b6361456bf749ed89b96ec20ef754f",
-    "/main.d1e0bcc44944e2e8dbbf.js": "f84a543c2d83c897411c0679aa0e51e36e7b49fc",
+    "/index.html": "0ac0e99b036e8f4a471eae4f7109b12d331e9104",
+    "/main.a1df2b636be0fa1aba03.js": "631b91ec4fea0acc91a495bc14feb2635a08a65f",
     "/polyfills.3eb7881d3a00da6c675e.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.7e69e535420df75d922b.css": "5bb4c7a3db15c3acda5e0bf6a9d98e5ee8b197d8"
