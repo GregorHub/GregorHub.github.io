@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.56b3f30fadda4da3af3c.js",
+        "/main.af0b82e72047a83980e6.js",
         "/polyfills.3eb7881d3a00da6c675e.js",
         "/runtime.a5dd35324ddfd942bef1.js",
         "/styles.7e69e535420df75d922b.css"
@@ -64,8 +64,8 @@
     "/assets/test.txt": "8fd5591f499d2a7fb21452dc80da4f3a412970b4",
     "/assets/wicket.js": "be258c5514a5ed4d9193b8d65a4b2e8901f17bd1",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d6fd38386029735c86bc86f7ce3807a039e6a1ea",
-    "/main.56b3f30fadda4da3af3c.js": "93b2f8832f2d5b104c88d80009ea6e782f1f6a06",
+    "/index.html": "561928c52af3287ee172b6c2a7225b00aa822fd4",
+    "/main.af0b82e72047a83980e6.js": "e1a1fb01fc4e5256d7435ad6c0eba698aa0667be",
     "/polyfills.3eb7881d3a00da6c675e.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.7e69e535420df75d922b.css": "5bb4c7a3db15c3acda5e0bf6a9d98e5ee8b197d8"
