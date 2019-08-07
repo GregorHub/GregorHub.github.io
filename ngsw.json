@@ -9,10 +9,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.f6918c7cd69cbc13ba58.js",
+        "/main.8cc3879ea4ae32c42256.js",
         "/polyfills.3eb7881d3a00da6c675e.js",
         "/runtime.a5dd35324ddfd942bef1.js",
-        "/styles.14531ab952f7add3225c.css"
+        "/styles.14f6b51763e75a8dbcd4.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,7 @@
         "/assets/leftBtn.png",
         "/assets/marker.png",
         "/assets/settings.png",
+        "/assets/simstdob.ttf",
         "/assets/test.txt",
         "/assets/wicket.js"
       ],
@@ -47,14 +48,15 @@
     "/assets/leftBtn.png": "7731b35bf2f3a7905dbd6ccb6ae5fb0392d69717",
     "/assets/marker.png": "d32d995008fa16d132d28ede343a7915fb89a33e",
     "/assets/settings.png": "9751d13453a74fd191cac566ed8a60d43d974538",
+    "/assets/simstdob.ttf": "17917333092b228f26c75c9ebef4debde822464e",
     "/assets/test.txt": "8fd5591f499d2a7fb21452dc80da4f3a412970b4",
     "/assets/wicket.js": "be258c5514a5ed4d9193b8d65a4b2e8901f17bd1",
     "/favicon.ico": "852f409eb703d4c33b84fc65239184dc6c744db0",
-    "/index.html": "4deff13fbd79c5188d596b5fbd5beaa9b6aecd82",
-    "/main.f6918c7cd69cbc13ba58.js": "fb9a9e5eb19278006f53f5d982462b8f874e8670",
+    "/index.html": "8e842c5997a8c69fc55445c6c786406765387dd9",
+    "/main.8cc3879ea4ae32c42256.js": "c2a0518f8b8df924443d0ec94154f44ec239c8a5",
     "/polyfills.3eb7881d3a00da6c675e.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.14531ab952f7add3225c.css": "200eb1da38121648cb6ef8c47829704c2d304a86"
+    "/styles.14f6b51763e75a8dbcd4.css": "ec5bc333ed1650344c6546e058f60fc1b38db118"
   },
   "navigationUrls": [
     {
