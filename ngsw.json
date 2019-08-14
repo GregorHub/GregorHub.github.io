@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d62e2dc5445ba450403c.js",
+        "/main.2f07cb5e9ad6659eee3b.js",
         "/polyfills.7e61eeabe4f75fabb7d3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.14f6b51763e75a8dbcd4.css"
@@ -66,8 +66,8 @@
     "/assets/test.txt": "8fd5591f499d2a7fb21452dc80da4f3a412970b4",
     "/assets/wicket.js": "be258c5514a5ed4d9193b8d65a4b2e8901f17bd1",
     "/favicon.ico": "852f409eb703d4c33b84fc65239184dc6c744db0",
-    "/index.html": "84541ffc48ed7b2ad20f4f27740e59aca0588fc4",
-    "/main.d62e2dc5445ba450403c.js": "1a26628a6a543a7132a22232799b7f099f099d77",
+    "/index.html": "2f1bbf5a12cded5a5a100cdbfafe5d01d9b4aa85",
+    "/main.2f07cb5e9ad6659eee3b.js": "df4f51236f2bfdae84d1a4397ee38305f030a89f",
     "/polyfills.7e61eeabe4f75fabb7d3.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.14f6b51763e75a8dbcd4.css": "ec5bc333ed1650344c6546e058f60fc1b38db118"
