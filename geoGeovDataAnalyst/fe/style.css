@@ -1,0 +1,30 @@
+.mapDiv {
+    
+height: 50vw; 
+
+}
+
+
+
+.dashboard{
+    position: absolute;
+    bottom: 20px;
+    height: 100px;
+    left: 5%;
+    width: 90%;
+    background-color: aliceblue;
+    z-index: 2000;
+}
+
+
+#myProgress {
+    margin-top: 20px;
+    width: 100%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+  }

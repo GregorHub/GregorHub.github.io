@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+ 
+ <!-- Leaflet css reference -->
+ <link rel="stylesheet" 
+ href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+ integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+ crossorigin=""/>
+
+<!-- JavaScript reference -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+ integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+ crossorigin="">
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+</head>
+<body>
+
+
+<div class="dashboard"> 
+<button onclick="showDataSets()" > load </button>
+   <img style="height: 60px;" src="https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png" /> Gültige Praxis
+    <img style="height: 60px;" src="https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png" /> Praxis nicht in HsMainz Datensatz
+   <img style="height: 60px;" src="https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png" /> Praxis nicht in OSM
+   <img style="height: 60px;" src="https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png" /> Praxis mit Unterschieden
+
+   <div id="myProgress">
+    <div id="myBar"></div>
+  </div>
+
+</div>
+    <div  class="mapDiv"  id="map" >
+        
+    
+
+</div>
+    <script src="script.js"></script> 
+</body>
+</html>
