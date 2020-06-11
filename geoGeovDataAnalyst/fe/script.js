@@ -138,10 +138,10 @@ move()
 
   function showDataSets(){
     var dataSets={OSMData:OSMDatensatz.elements,HsMainzData:HsMainzDatensatz} 
-    console.log(dataSets)
+    console.log( JSON.stringify(dataSets))
     
     move()
-    $.post("http://opendata.gi.hs-mainz.de/openhealth-compare",JSON.stringify( dataSets), function(data, status){
+  /*  $.post("http://opendata.gi.hs-mainz.de/openhealth-compare",JSON.stringify( dataSets), function(data, status){
       var json =JSON.parse( data)
       move()
       console.log(json)
@@ -166,6 +166,25 @@ move()
                     addElementAsMarker(element, blueIcon )
                     });
       });
+*/
+
+      $.ajax({
+        type: "POST",
+        dataType: "application/json",
+        url: "http://opendata.gi.hs-mainz.de/openhealth-compare",
+        //url: "http://localhost:8000/compareDatasets",
+        data: JSON.stringify(dataSets),
+        success: function(data) { 
+          response = jQuery.parseJSON(data);
+          console.log(response)
+      },
+      
+      })
+
+     function success( e){
+       console.log(e)
+     } 
+
 
 
   }
