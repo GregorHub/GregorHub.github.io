@@ -11,10 +11,10 @@ var renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 renderer.setClearColor( new THREE.Color("rgb(21, 29, 31)") )
-camera.position.z = 14;
+camera.position.z = 10;
 var controls = new OrbitControls( camera, renderer.domElement );
 
-var light = new THREE.PointLight( new THREE.Color("rgb(210, 250, 250)"),1.3 ); // soft white light
+var light = new THREE.PointLight( new THREE.Color("rgb(210, 250, 250)"),1.2 ); // soft white light
 
 light.position.z=50
 
