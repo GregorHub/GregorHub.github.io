@@ -60,7 +60,7 @@ animate()
   
 )
 
-function  flyTheMoon(R,I,col){
+function  flyTheMoon(R,I,col,speed){
   function getRndInteger(min, max) {
     return Math.floor(Math.random() * (max - min + 1) ) + min;
   }
@@ -71,7 +71,7 @@ var sphere = new THREE.Mesh( geometry, material );
 sphere.castShadow=true
 scene.add( sphere );
 var phi=10*Math.random();
-var animspeed=Math.random()/100
+var animspeed=speed
   var animate = function () {
     requestAnimationFrame( animate );
 
@@ -88,13 +88,13 @@ renderer.render( scene, camera );
 
 }
 
+flyTheMoon(4.3,1, new THREE.Color("rgb(10, 20, 10)"),0.006)
+flyTheMoon(5.5,0.2, new THREE.Color("rgb(15, 10, 10)"),0.005)
+flyTheMoon(7.3,0.8, new THREE.Color("rgb(10, 10, 10)"),0.004)
+flyTheMoon(8.3,-2, new THREE.Color("rgb(20, 20, 22)"),0.003)
+flyTheMoon(8.7,0.5, new THREE.Color("rgb(20, 20, 10)"),0.002)
+flyTheMoon(9.3,2, new THREE.Color("rgb(1, 10, 10)"),0.001)
 
-flyTheMoon(7.3,0.2, new THREE.Color("rgb(15, 10, 10)"))
-flyTheMoon(5.3,1, new THREE.Color("rgb(10, 20, 10)"))
-flyTheMoon(9.3,0.5, new THREE.Color("rgb(20, 20, 10)"))
-flyTheMoon(8.3,2, new THREE.Color("rgb(1, 10, 10)"))
-flyTheMoon(6.3,0.8, new THREE.Color("rgb(10, 10, 10)"))
-flyTheMoon(5.3,-2, new THREE.Color("rgb(20, 20, 22)"))
 
 renderer.render( scene, camera );
 
