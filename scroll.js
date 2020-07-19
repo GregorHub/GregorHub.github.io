@@ -2,10 +2,15 @@
 
 
 function clickStart(){
+  var elmnt = document.getElementById("About");
+  elmnt.scrollIntoView();
 
-    window.scrollTo({
-        top: window.innerHeight,
-        left: 0,
-        behavior: 'smooth'
-      });
 }
+
+function clickProject(){
+
+  var elmnt = document.getElementById("MyProject1");
+  elmnt.scrollIntoView();
+}
+
+
