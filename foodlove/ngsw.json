@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1614534017509,
-  "index": "/index.html",
+  "timestamp": 1614588405401,
+  "index": "https://gregorhub.github.io/foodlove/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,16 +11,16 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main-es2015.93d37dbe4afb8824b7f0.js",
-        "/main-es5.93d37dbe4afb8824b7f0.js",
-        "/manifest.webmanifest",
-        "/polyfills-es2015.f05be9547e4a88183d1e.js",
-        "/polyfills-es5.c1c27f33742258fa1de8.js",
-        "/runtime-es2015.a4dadbc03350107420a4.js",
-        "/runtime-es5.a4dadbc03350107420a4.js",
-        "/styles.09e2c710755c8867a460.css"
+        "https://gregorhub.github.io/foodlove/favicon.ico",
+        "https://gregorhub.github.io/foodlove/index.html",
+        "https://gregorhub.github.io/foodlove/main-es2015.fc4bb7fa747e334631f6.js",
+        "https://gregorhub.github.io/foodlove/main-es5.fc4bb7fa747e334631f6.js",
+        "https://gregorhub.github.io/foodlove/manifest.webmanifest",
+        "https://gregorhub.github.io/foodlove/polyfills-es2015.f05be9547e4a88183d1e.js",
+        "https://gregorhub.github.io/foodlove/polyfills-es5.c1c27f33742258fa1de8.js",
+        "https://gregorhub.github.io/foodlove/runtime-es2015.a4dadbc03350107420a4.js",
+        "https://gregorhub.github.io/foodlove/runtime-es5.a4dadbc03350107420a4.js",
+        "https://gregorhub.github.io/foodlove/styles.0e4338761429b4eb16ac.css"
       ],
       "patterns": []
     },
@@ -32,38 +32,38 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-128x128.png",
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-144x144.png",
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-152x152.png",
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-192x192.png",
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-384x384.png",
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-512x512.png",
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-72x72.png",
+        "https://gregorhub.github.io/foodlove/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "d59eb7a33ad03a53b257dc964f9f9692ab04da3e",
-    "/main-es2015.93d37dbe4afb8824b7f0.js": "df6c61706144faf00d57110158f45a1dec29f8e1",
-    "/main-es5.93d37dbe4afb8824b7f0.js": "f8710cd1677f77b8b251bbe8c4153e70011d264e",
-    "/manifest.webmanifest": "50bf43fe8ee3183f1085eeb8e9497e3b008ec50e",
-    "/polyfills-es2015.f05be9547e4a88183d1e.js": "b781f6723ec3a789640a4e9f9108b22c6cef4684",
-    "/polyfills-es5.c1c27f33742258fa1de8.js": "63c079656c0eab04bd82e392b4e4054874b83e58",
-    "/runtime-es2015.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://gregorhub.github.io/foodlove/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://gregorhub.github.io/foodlove/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://gregorhub.github.io/foodlove/index.html": "5fd90700f87e25327e3efd0dd71dea0a98f5f851",
+    "https://gregorhub.github.io/foodlove/main-es2015.fc4bb7fa747e334631f6.js": "686650fb34c1f85cad0891002e4dcd731f677af4",
+    "https://gregorhub.github.io/foodlove/main-es5.fc4bb7fa747e334631f6.js": "bf5f2365c130229842aa93fac31015e4814a2ea4",
+    "https://gregorhub.github.io/foodlove/manifest.webmanifest": "50bf43fe8ee3183f1085eeb8e9497e3b008ec50e",
+    "https://gregorhub.github.io/foodlove/polyfills-es2015.f05be9547e4a88183d1e.js": "b781f6723ec3a789640a4e9f9108b22c6cef4684",
+    "https://gregorhub.github.io/foodlove/polyfills-es5.c1c27f33742258fa1de8.js": "63c079656c0eab04bd82e392b4e4054874b83e58",
+    "https://gregorhub.github.io/foodlove/runtime-es2015.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://gregorhub.github.io/foodlove/runtime-es5.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://gregorhub.github.io/foodlove/styles.0e4338761429b4eb16ac.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
