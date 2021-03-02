@@ -7,8 +7,8 @@ body { min-height: 100%; margin: 0; display: flex; justify-content: center; alig
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     position: absolute;
-    width: 50%;
-    
+    width: 100%;
+    text-align:center;
 
     top: 5vh;
 }
