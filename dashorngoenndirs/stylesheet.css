@@ -45,7 +45,7 @@ button span { position: relative; }
 
 
 .horn{
-    background-image: url("./horn.png");
+    background-image: url("horn.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
